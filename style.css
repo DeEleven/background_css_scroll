@@ -1,0 +1,39 @@
+body{
+	background-color: #f6f6f6
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, arial, sans-serif;
+	color: #2d3935;
+}
+
+.container{
+    left: 0;
+    width: 100%;
+    margin: 0 auto;
+    display: table;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+
+a{
+	color: #537fbc;
+	text-decoration: none;
+	font-size: 22px;
+}
+
+#left{
+	border: 1px solid #726f6f;
+	border-radius:0.4em;
+	width: 50%;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#right{
+	border: 1px solid #726f6f;
+	border-radius:0.4em;
+	width: 50%;
+	display: table-cell;
+	vertical-align: middle;
+}
